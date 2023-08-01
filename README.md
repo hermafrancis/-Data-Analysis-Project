@@ -9,4 +9,4 @@ https://github.com/hermafrancis/-Data-Analysis-Project/blob/main/Data%20Analysis
 The second project shows business metrics and uses models to forecast future growth prospects for those sectors.
 
 ## This is a link to the full project!
-https://github.com/hermafrancis/-Data-Analysis-Project/blob/main/Data%20Analysis%20Project.xlsx
+https://github.com/hermafrancis/-Data-Analysis-Project/blob/main/Data%20Analysis%20Project_NYSE.xlsx
